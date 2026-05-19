@@ -1,3 +1,5 @@
+![9XW7H](9XW7H.jpg)
+
 # Inteligência Artificial e Riscos Psicossociais no Trabalho — NotebookLM + RAG
 
 ## Objetivo
