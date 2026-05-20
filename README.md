@@ -117,6 +117,7 @@ https://www.youtube.com/watch?v=9nNta8WBBTo
 
 ### Prompt 1
 Explique os principais riscos psicossociais relacionados ao ambiente de trabalho e seus possíveis impactos na saúde mental dos trabalhadores.
+![9XW7H](9XW7H.jpg)
 
 ### Prompt 2
 Crie um resumo estruturado relacionando NR-1, gerenciamento de riscos ocupacionais e saúde mental no trabalho.
