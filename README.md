@@ -123,14 +123,19 @@ Explique os principais riscos psicossociais relacionados ao ambiente de trabalho
 Crie um resumo estruturado relacionando NR-1, gerenciamento de riscos ocupacionais e saúde mental no trabalho.
 ![prompt2](prompt2.png)
 
-### Prompt 3
-Compare burnout, estresse ocupacional e assédio moral com base nas fontes utilizadas.
+### Prompt 3 — Agente de IA para conformidade com a NR-1
 
-### Prompt 4
-Explique como arquiteturas RAG podem melhorar a contextualização das respostas produzidas por sistemas de IA generativa.
+Como um agente de IA baseado em RAG poderia auxiliar organizações na identificação, monitoramento e documentação de riscos psicossociais relacionados à NR-1?
 
-### Prompt 5
-Quais limitações existem no uso de IA generativa para interpretação de normas e temas relacionados à saúde mental ocupacional?
+Considere:
+- protocolos organizacionais;
+- gerenciamento de riscos ocupacionais;
+- apoio à construção do PGR;
+- monitoramento de fatores psicossociais;
+- geração de relatórios;
+- apoio a gestores e equipes de RH;
+- e limitações éticas do uso de IA em saúde mental ocupacional.
+![prompt3](prompt3.png)
 
 ---
 
